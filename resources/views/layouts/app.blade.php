@@ -61,7 +61,7 @@
         <header>
             <h1>My Application Header</h1>
             <nav>
-                <a href="/">Home</a> |
+                <a href="/products">Home</a> |
                 <a href="/products">Products</a> |
                 <a href="/students">Students</a>
             </nav>
